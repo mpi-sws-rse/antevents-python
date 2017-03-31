@@ -1,6 +1,10 @@
 ===========
 Ant Events
 ===========
+Moved!
+==========
+This framework has been renamed to **ThingFlow**. The latest repo is at 
+https://github.com/mpi-sws-rse/thingflow-python. Please go there.
 
 Introduction
 ============
